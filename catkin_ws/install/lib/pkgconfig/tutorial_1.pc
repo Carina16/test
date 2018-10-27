@@ -1,0 +1,8 @@
+prefix=/home/ros/catkin_ws/install
+
+Name: tutorial_1
+Description: Description of tutorial_1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ros/catkin_ws/install/lib 
+Requires: 
